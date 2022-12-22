@@ -1,7 +1,7 @@
 
 spring:
   application:
-   name: dev-default
+   name: config-dev
 
 Eureka:
     instance:
