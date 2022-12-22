@@ -1,6 +1,6 @@
 spring:
   application:
-   name: prod-default
+   name: config-prod
 
 Eureka:
     instance:
